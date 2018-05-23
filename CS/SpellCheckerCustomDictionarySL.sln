@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDictionarySample", "CustomDictionarySample\CustomDictionarySample.csproj", "{B20047B9-97E9-4C42-B905-B6A19D723ECC}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CustomDictionarySample.Web", "CustomDictionarySample.Web\", "{4606AF24-58ED-484D-AAF9-7ADEBD7EB4EF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/CustomDictionarySample.Web"
+		Debug.AspNetCompiler.PhysicalPath = "CustomDictionarySample.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomDictionarySample.Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CustomDictionarySample.Web"
+		Release.AspNetCompiler.PhysicalPath = "CustomDictionarySample.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomDictionarySample.Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4637"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{B20047B9-97E9-4C42-B905-B6A19D723ECC}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20047B9-97E9-4C42-B905-B6A19D723ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20047B9-97E9-4C42-B905-B6A19D723ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20047B9-97E9-4C42-B905-B6A19D723ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20047B9-97E9-4C42-B905-B6A19D723ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4606AF24-58ED-484D-AAF9-7ADEBD7EB4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4606AF24-58ED-484D-AAF9-7ADEBD7EB4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4606AF24-58ED-484D-AAF9-7ADEBD7EB4EF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4606AF24-58ED-484D-AAF9-7ADEBD7EB4EF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
