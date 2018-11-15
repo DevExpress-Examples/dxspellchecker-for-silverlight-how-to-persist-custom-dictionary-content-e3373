@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomDictionaryService.cs](./CS/CustomDictionarySample.Web/App_Code/CustomDictionaryService.cs) (VB: [CustomDictionaryService.vb](./VB/CustomDictionarySample.Web/App_Code/CustomDictionaryService.vb))
+* [ICustomDictionaryService.cs](./CS/CustomDictionarySample.Web/App_Code/ICustomDictionaryService.cs) (VB: [ICustomDictionaryService.vb](./VB/CustomDictionarySample.Web/App_Code/ICustomDictionaryService.vb))
+* [CustomWords.txt](./CS/CustomDictionarySample.Web/App_Data/Dictionaries/CustomWords.txt) (VB: [CustomWords.txt](./VB/CustomDictionarySample.Web/App_Data/Dictionaries/CustomWords.txt))
+* [CustomDictionarySampleTestPage.aspx](./CS/CustomDictionarySample.Web/CustomDictionarySampleTestPage.aspx) (VB: [CustomDictionarySampleTestPage.aspx](./VB/CustomDictionarySample.Web/CustomDictionarySampleTestPage.aspx))
+* [CustomDictionaryService.svc](./CS/CustomDictionarySample.Web/CustomDictionaryService.svc) (VB: [CustomDictionaryService.svc](./VB/CustomDictionarySample.Web/CustomDictionaryService.svc))
+* [Web.config](./CS/CustomDictionarySample.Web/Web.config) (VB: [Web.config](./VB/CustomDictionarySample.Web/Web.config))
+* [MainPage.xaml](./CS/CustomDictionarySample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomDictionarySample/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/CustomDictionarySample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomDictionarySample/MainPage.xaml.vb))
+<!-- default file list end -->
 # DXSpellChecker for Silverlight - How to persist custom dictionary content
 
 
