@@ -7,7 +7,7 @@
 * [CustomDictionarySampleTestPage.aspx](./CS/CustomDictionarySample.Web/CustomDictionarySampleTestPage.aspx) (VB: [CustomDictionarySampleTestPage.aspx](./VB/CustomDictionarySample.Web/CustomDictionarySampleTestPage.aspx))
 * [CustomDictionaryService.svc](./CS/CustomDictionarySample.Web/CustomDictionaryService.svc) (VB: [CustomDictionaryService.svc](./VB/CustomDictionarySample.Web/CustomDictionaryService.svc))
 * [Web.config](./CS/CustomDictionarySample.Web/Web.config) (VB: [Web.config](./VB/CustomDictionarySample.Web/Web.config))
-* [MainPage.xaml](./CS/CustomDictionarySample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomDictionarySample/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/CustomDictionarySample/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomDictionarySample/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/CustomDictionarySample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomDictionarySample/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXSpellChecker for Silverlight - How to persist custom dictionary content
